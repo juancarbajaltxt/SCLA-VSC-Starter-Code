@@ -3,4 +3,4 @@ Basic starter code for Helping Pyramid website to go along with Visual Studio Co
 # Authors
 - Juan Carbajal: juan@urbantxt.com
 # The Helping Pyramid 
-![alt text](https://drive.google.com/file/d/1RYVdrlG1CDfco_mHmusBLtNBAQrOARaM/view?usp=sharing)
+![alt text](https://i.ibb.co/30ycK0C/Screen-Shot-2020-07-16-at-7-47-47-PM-1.png)
